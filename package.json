@@ -1,0 +1,34 @@
+{
+  "name": "@stdlib/datasets-img-march-pastoral",
+  "version": "0.0.0",
+  "description": "Image of sheep in a pastoral setting.",
+  "license": "Apache-2.0",
+  "type": "module",
+  "main": "./mod.js",
+  "homepage": "https://stdlib.io",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stdlib-js/datasets-img-march-pastoral.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stdlib-js/stdlib/issues"
+  },
+  "keywords": [
+    "stdlib",
+    "datasets",
+    "dataset",
+    "data",
+    "image",
+    "img",
+    "nature",
+    "pastoral",
+    "pasture",
+    "field",
+    "sheep",
+    "animals"
+  ],
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/athan"
+  }
+}
