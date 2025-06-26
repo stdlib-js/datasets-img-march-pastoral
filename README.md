@@ -86,7 +86,7 @@ var image = require( '@stdlib/datasets-img-march-pastoral' );
 Returns a [buffer][@stdlib/buffer/ctor] containing image data.
 
 ```javascript
-var img = image;
+var img = image();
 // returns <Buffer>
 ```
 
